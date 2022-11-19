@@ -1,0 +1,19 @@
+// npx tsc
+
+// npx tsc --init
+
+// npm init @eslint/config
+
+// npm i express
+// npm i --save-dev @types/express
+
+// npm i nodemon -D
+
+// docker run --name mongo -p 3000:3000 -d mongo
+
+// docker ps
+
+// npm i mongoose
+
+// npm i multer
+// npm i --save-dev @types/multer
